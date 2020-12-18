@@ -1,2 +1,3 @@
 program.exe
 node_modules
+*.backup
